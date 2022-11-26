@@ -1,4 +1,2 @@
 /.idea
-/bins/mrc_emu/ext/mrc_bios/bios.bin
-/samples/**/*.com
 /target

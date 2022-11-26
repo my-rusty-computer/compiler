@@ -1,7 +1,0 @@
-[package]
-name = "mrc_instruction"
-version = "0.0.1"
-edition = "2021"
-
-[build-dependencies]
-data_sheet = { path = "../data_sheet" }
